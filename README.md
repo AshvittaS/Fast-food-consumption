@@ -45,18 +45,15 @@ If a cell shows no output, run it to regenerate the tables/plots. Re-running all
 ### Visualizations (saved outputs)
 Optionally export figures created in the notebook to a `figures/` folder so they can be embedded here:
 
-<<<<<<< HEAD
-![Distribution of spending]
+Distribution of spending
 <img width="563" height="433" alt="image" src="https://github.com/user-attachments/assets/9361542b-aa87-470d-a9b2-acf4ef2e5fdf" />
 
-![Spending by region]
+Spending by region
 <img width="563" height="507" alt="image" src="https://github.com/user-attachments/assets/18503c24-d745-433f-a99c-b94a97af7cd4" />
 
-![Spending box plot]
+Spending box plot
 <img width="520" height="453" alt="image" src="https://github.com/user-attachments/assets/ef3c7118-c5d9-4f0e-a9fc-ff972a60fa34" />
 
-
->>>>>>> a721fa90c81540f714e6d0bd876db76efc39142f
 
 Export from within the notebook, for example:
 ```python
