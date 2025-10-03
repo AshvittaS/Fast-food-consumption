@@ -43,11 +43,21 @@ To view outputs, open the notebook and scroll through executed cells. If any cel
 ### Visualizations (saved outputs)
 Below are example plots produced by the notebook. Save figures from the notebook to a `figures/` folder with these filenames so the README renders them automatically:
 
-![Outcome distribution](figures/outcome_distribution.png)
-![Team win rates](figures/team_win_rates.png)
-![Runs distribution](figures/runs_distribution.png)
-![Toss decision vs win rate](figures/toss_vs_win.png)
-![Venue-wise results](figures/venue_results.png)
+![Team win rates]
+<img width="563" height="530" alt="image" src="https://github.com/user-attachments/assets/c5e81877-d948-4869-9dab-7500bb23f61e" />
+
+![Runs distribution]
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/5d82d507-0aa7-4545-97f2-0f6dcf4a0c57" />
+
+![Wickets VS Frequency]
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/6ea7d1ff-0d65-4b36-9000-18620110ac7d" />
+
+![Run vs Frequency]
+<img width="1065" height="622" alt="image" src="https://github.com/user-attachments/assets/8a7fa317-340c-4ac2-a4c3-66b59251201b" />
+
+![Season Vs India Wins Frequency]
+<img width="563" height="432" alt="image" src="https://github.com/user-attachments/assets/100e64ae-8d48-4177-a08b-9b8d1c9c2a4f" />
+
 
 Export figures from the notebook using, for example:
 ```python
